@@ -93,7 +93,7 @@ It should be very easy to use it with (or extend it for) other MediaWiki wikis :
 
 The script will work as it is if the following requirements are met:
 - the MediaWiki version of the targeted wiki is not too far from the one used by the Gentoo wiki (the 05/10/2022: version 1.35.7)
-- the targeted wiki pages don't have translations, or they have translations that follow the same naming as in the Gentoo wiki (<english page URL>/<language code> ; ex: https://wiki.gentoo.org/wiki/FAQ/fr)
+- the targeted wiki pages don't have translations, or they have translations that follow the same naming as in the Gentoo wiki (\<english page URL>/\<language code> ; ex: https://wiki.gentoo.org/wiki/FAQ/fr)
 
 Otherwise:
 - some MediaWiki API modules that are necessary for the requests may not be available
