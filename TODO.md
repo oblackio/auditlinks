@@ -10,7 +10,7 @@ TODO
 
 - parallelize requests  
 **--> Idea:** Use several processes, and evenly affect to each of them a separate set of hosts.  
-**--> Note:** This would actually not be very useful, as there is a large difference between the hosts' count of links (see README).
+**--> Note:** This would actually not be very useful, as there is a large difference between the hosts' count of links (see [README](README.md)).
 
 - test other URI schemes
   - `git://`
